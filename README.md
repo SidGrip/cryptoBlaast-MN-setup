@@ -26,7 +26,7 @@ As the Masternode is installing, you need to configure the desktop wallet accord
 6. Go to  **Tools -> "Open Masternode Configuration File"**
 7. Add the following entry:
 ```
-Alias Address Privkey TxHash TxIndex
+Alias Address Privkey TxHash TxIndex Identifier
 ```
 * Alias: **MN1**
 * Address: **VPS_IP:PORT**
