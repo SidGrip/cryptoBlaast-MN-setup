@@ -12,6 +12,7 @@ Copy & paste into terminal window
 wget -q https://github.com/SidGrip/cryptoBlast-MN-setup/raw/master/blast_install.sh
 bash blast_install.sh
 ```
+During the Masternode setup it will ask for your Private key, copy the output from step 5 below.
 ***
 
 ## Desktop wallet setup
