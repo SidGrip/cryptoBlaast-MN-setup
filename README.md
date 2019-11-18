@@ -16,7 +16,7 @@ bash blast_install.sh
 
 ## Desktop wallet setup
 
-After the Masternode is up and running, you need to configure the desktop wallet accordingly. Here are the steps:
+As the Masternode is installing, you need to configure the desktop wallet accordingly. Here are the steps:
 1. Open the Blast Desktop Wallet.
 2. Go to RECEIVE and create a New Address: **MN1**
 3. Send **6400** Blast to **MN1**. You need to send all 6400 coins in one single transaction.
