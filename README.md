@@ -61,7 +61,7 @@ Also, if you want to check/start/stop **Blast**, run one of the following comman
 systemctl status Blast #To check if Blast service is running
 systemctl start Blast #To start Blast service
 systemctl stop Blast #To stop Blast service
-systemctl is-enabled Blast #To check if Giga service is enabled on boot
+systemctl is-enabled Blast #To check if Blast service is enabled on boot
 ```
 ***
 
