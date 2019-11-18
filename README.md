@@ -5,6 +5,9 @@ Use it on your own risk.
 
 ## VPS installation
 <a href="https://www.vultr.com/?ref=7390666" rel="nofollow">Believe Me, I have Tried Everything. Click Here for Vultr</a>
+<br>
+<br>
+Copy & paste into terminal window
 ```
 wget -q https://github.com/SidGrip/cryptoBlast-MN-setup/raw/master/blast_install.sh
 bash blast_install.sh
