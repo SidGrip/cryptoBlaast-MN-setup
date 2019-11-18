@@ -30,7 +30,7 @@ Alias Address Privkey TxHash TxIndex
 ```
 * Alias: **MN1**
 * Address: **VPS_IP:PORT**
-* Privkey: **Masternode Gen Key**
+* Privkey: **Masternode Genkey**
 * TxHash: **First value from Step 5**
 * TxIndex:  **Second value from Step 5**
 * Identifier: **Payout address**
