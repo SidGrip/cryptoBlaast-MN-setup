@@ -52,7 +52,7 @@ blast-cli masternode status
 ## Usage:
 ```
 blast-cli masternode status #To check your MN status
-blast-cli getinfo #To get general info such as Giga version and current block numnber
+blast-cli getinfo #To get general info such as Blast version and current block numnber
 blast-cli mnsync status #To check if your MN is synced.
 ```
 Also, if you want to check/start/stop **Blast**, run one of the following commands as **root**:
