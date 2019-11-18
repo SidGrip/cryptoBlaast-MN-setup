@@ -51,16 +51,16 @@ blast-cli masternode status
 
 ## Usage:
 ```
-Blast-cli masternode status #To check your MN status
-Blast-cli getinfo #To get general info such as Giga version and current block numnber
-Blast-cli mnsync status #To check if your MN is synced.
+blast-cli masternode status #To check your MN status
+blast-cli getinfo #To get general info such as Giga version and current block numnber
+blast-cli mnsync status #To check if your MN is synced.
 ```
 Also, if you want to check/start/stop **Blast**, run one of the following commands as **root**:
 
 ```
-systemctl status Blast #To check if Giga service is running
-systemctl start Blast #To start Giga service
-systemctl stop Blast #To stop Giga service
+systemctl status Blast #To check if Blast service is running
+systemctl start Blast #To start Blast service
+systemctl stop Blast #To stop Blast service
 systemctl is-enabled Blast #To check if Giga service is enabled on boot
 ```
 ***
