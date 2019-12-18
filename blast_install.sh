@@ -136,8 +136,7 @@ clear
 }
 
 function update_config() {
-  sed -i 's/daemon=1/daemon=0/' $CONFIGFOLDER/$CONFIG_FILE
-  cat << EOF >> $CONFIGFOLDER/$CONFIG_FILE
+    cat << EOF >> $CONFIGFOLDER/$CONFIG_FILE
 #logintimestamps=1
 bind=$NODEIP:$COIN_PORT
 masternode=1
