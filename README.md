@@ -70,7 +70,7 @@ Any donation is highly appreciated
 
 **--- sidgrip ---**
 <br>
-**Blast**: BG3ejZ1bJaxh3UMeqND7Sn8xtT5M1RBT6o
+**Blast**: BEfGHGKQUuVzsKJTcgqWqjFoKTbKwdw5TV
 
 
 **---- zoldur ----**
