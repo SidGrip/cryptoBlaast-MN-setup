@@ -1,10 +1,13 @@
 # cryptoBlast
-Shell script to install a [Blast Masternode](https://bitcointalk.org/index.php?topic=2547036) on a Linux server running Ubuntu 16.04.
-Use it at your own risk.
+Shell script to install a [Blast Masternode](https://bitcointalk.org/index.php?topic=2547036)
+<br>
+->  Blast Masternode may take 5 or more hours to sync <-
 ***
 
 ## VPS installation
 <a href="https://www.vultr.com/?ref=7390666" rel="nofollow">Believe Me, I have Tried Everything. Click Here for Vultr</a>
+<br>
+Ubuntu 16.04 x64 - 1CPU - 1GIG Ram - 25GB SSD - $5/mo
 <br>
 <br>
 Copy & paste into terminal window
