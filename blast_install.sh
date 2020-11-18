@@ -142,6 +142,15 @@ bind=$NODEIP:$COIN_PORT
 masternode=1
 #externalip=$NODEIP:$COIN_PORT
 masternodeprivkey=$COINKEY
+addnode=45.77.246.197
+addnode=5.135.244.39
+addnode=173.249.40.165
+addnode=167.86.91.98
+addnode=5.39.3.119
+addnode=167.86.123.246
+addnode=207.180.216.178
+addnode=149.56.122.73
+addnode=8.9.31.179
 EOF
 }
 
