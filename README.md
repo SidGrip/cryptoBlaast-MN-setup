@@ -1,7 +1,7 @@
 # cryptoBlast
 Shell script to install a [Blast Masternode](https://bitcointalk.org/index.php?topic=2547036)
 <br>
-->  Blast Masternode may take 5 or more hours to sync <-
+->  cryptoBlast Masternode may take 5 or more hours to sync <-
 ***
 
 ## VPS installation
